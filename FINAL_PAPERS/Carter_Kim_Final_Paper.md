@@ -15,4 +15,16 @@ Figure.1 Starbucks transaction volume
 
 Figure.1 shows the transaction volume of Starbucks. They get 31% of their entire transactions through mobile order and the sheer volume has been growing over the years. 31% is huge and shouldn’t be neglected. The local coffee shops are currently missing this opportunity. 
 
+## Project Statement
+This project is about developing a centralized mobile ordering application designed specifically for local/independent coffee shops, bridging the technological gap between local cafes and global franchises. Currently, urban professionals are often forced to compromise between the superior taste of local coffee and the convenience of big chain order ahead systems, resulting in significant revenue loss for small businesses that cannot offer siren order technology. By implementing a platform that enables users to customize, order, and pay for premium coffee in advance, this project aims to empower local cafes to recapture the lost market transaction volume and to allow busy customers to enjoy high quality coffee without the wait while supporting the local small business economy.
+
+## Target Audience
+### Primary users
+This application's target population consists primarily of busy urban professionals, students, and owners of local cafes who prioritize both quality and efficiency. In the fast-paced modern society, these individuals often face a dilemma I described in the personal motivation section: they desire the superior taste and unique vibe of local coffee shops but are forced to choose big franchises due to time constraints before work or classes. This platform will assist them in optimizing their morning routines by eliminating wait times, allowing them to integrate high quality coffee consumption into their tight schedules. Additionally, the audience includes digital natives who are accustomed to the convenience of mobile interfaces and cashless transactions. Unlike the typical customer of a large franchise who accepts standardized, over-roasted beans, these users are interested in the specific nuances of their drink such as bean origin, roast level, or drip style and require a technological solution that bridges the gap between their sophisticated taste preferences and their need for speed. Moreover, the demand for good tasting or high quality coffee is increasing.
+
+
+![high quality coffee demand](Gourmet.png)
+Figure.2 coffee type consumption trends.
+Figure.2 shows the people’s demand for high quality coffee.
+
 
