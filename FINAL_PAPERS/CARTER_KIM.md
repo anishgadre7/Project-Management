@@ -1,4 +1,4 @@
-# Mobile order app for local coffee shops\
+# Title: Mobile order app for local coffee shops
 Carter Kim
 Semester: Fall 25
 
